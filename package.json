@@ -1,0 +1,15 @@
+{
+  "name": "f1-team-principal",
+  "version": "0.1.0-beta.1",
+  "private": true,
+  "description": "A mobile-first, single-file F1 team management simulation game.",
+  "scripts": {
+    "build": "node scripts/build.js",
+    "test": "node tests/smoke.js"
+  },
+  "author": "GEORGE (https://github.com/GeorgeDy7an)",
+  "license": "UNLICENSED",
+  "engines": {
+    "node": ">=18"
+  }
+}
